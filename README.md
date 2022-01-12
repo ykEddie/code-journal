@@ -9,3 +9,4 @@ Adding and committing is getting etched into my memory now, just need to figure 
 - Having a few problems
 - Might need to set up SSH keys
 - Set up SSH key but still unable to push lol
+- Used trusty ol' Google to figure out how to change it from HTTPS to SSH so I can finally push
