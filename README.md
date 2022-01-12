@@ -3,7 +3,7 @@
 
 ## January 13th, 2022 
 Goal: Update "website" and push it to GitHub
-Getting a login problem, not exactly sure what's wrong. A little frustrated ngl
+Getting a login problem, not exactly sure what's wrong. A little frustrated ngl.
 Adding and committing is getting etched into my memory now, just need to figure out this push problem
 - Tried to push to git for the first time
 - Having a few problems
