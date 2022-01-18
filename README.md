@@ -17,3 +17,10 @@ Adding and committing is getting etched into my memory now, just need to figure 
 - finally started playing "commit catch" with partner
 After a couple back and forth commits we created a merge conflict by working on the same line of code and having one person try to push without pulling first.
 - Commit catch is actually kinda fun lol
+## January 14th
+Not doing anything too crazy today
+- learned some stuff about copyright and licenses
+Goal: embed an image into a markdown
+- forgot how to do that so I'll watch the recording again
+- Had a guest speaker come in and talk about how she got through the class
+- had UX explained a little bit
