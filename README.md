@@ -32,5 +32,4 @@ Goal get sort of comfortable with UX I guess
 - [Read a little bit about wireframes](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/)
 - Tried drawing a wireframe by hand that matched one of my user flow scenarios 
 ![Wireframe example](images\source\how-to-wireframe.png "Wireframe example")
-
-**Source:**https://www.g2.com/articles/wireframe
+Image Source: https://www.g2.com/articles/wireframe
