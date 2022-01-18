@@ -30,4 +30,4 @@ Goal get sort of comfortable with UX I guess
 - Tony explained gists but I think I'm gonna stick to making repos the first way I learned
 - Wrote down some user flow scenarios in my notebook, will enter them into a markdown for assignment 
 - [Read a little bit about wireframes](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/)
-- Tried drawing a wireframe by hand that matched one of my user flow scenarios
+- Tried drawing a wireframe by hand that matched one of my user flow scenarios 
