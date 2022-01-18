@@ -10,3 +10,10 @@ Adding and committing is getting etched into my memory now, just need to figure 
 - Might need to set up SSH keys
 - Set up SSH key but still unable to push lol
 - Used trusty ol' Google to figure out how to change it from HTTPS to SSH so I can finally push
+## January 13th pt. 2
+- Git collaboration with a partner
+- made a new repo and invited Jason to be a contributor
+- had a little trouble pushing a static html template to git bash/VS code
+- finally started playing "commit catch" with partner
+After a couple back and forth commits we created a merge conflict by working on the same line of code and having one person try to push without pulling first.
+- Commit catch is actually kinda fun lol
