@@ -31,5 +31,8 @@ Goal get sort of comfortable with UX I guess
 - Wrote down some user flow scenarios in my notebook, will enter them into a markdown for assignment 
 - [Read a little bit about wireframes](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/)
 - Tried drawing a wireframe by hand that matched one of my user flow scenarios 
+- Looked through the markdown cheat sheet found this code `![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")`
+
 ![Wireframe example](images\source\how-to-wireframe.png "Wireframe example")
+
 Image Source: https://www.g2.com/articles/wireframe
