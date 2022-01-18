@@ -19,8 +19,8 @@ After a couple back and forth commits we created a merge conflict by working on 
 - Commit catch is actually kinda fun lol
 ## January 14th
 Not doing anything too crazy today
-- learned some stuff about copyright and licenses
 Goal: embed an image into a markdown
+- learned some stuff about copyright and licenses
 - forgot how to do that so I'll watch the recording again
 - Had a guest speaker come in and talk about how she got through the class
 - had UX explained a little bit
