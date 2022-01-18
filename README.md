@@ -33,6 +33,8 @@ Goal get sort of comfortable with UX I guess
 - Tried drawing a wireframe by hand that matched one of my user flow scenarios 
 - Looked through the markdown cheat sheet found this code `![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")`
 
+**Picture didn't show up how I wanted or expected, will ask Tony next time about how to fix the problem**
+
 ![Wireframe example](images\source\how-to-wireframe.png "Wireframe example")
 
 Image Source: https://www.g2.com/articles/wireframe
