@@ -38,3 +38,9 @@ Goal get sort of comfortable with UX I guess
 ![Wireframe example](images\source\how-to-wireframe.png "Wireframe example")
 
 Image Source: https://www.g2.com/articles/wireframe
+## January 18th
+Goal: Work on Dsgn270 assignment 1
+- Started creating a wireflow on Figma not going so well
+- Not sure how to get icons from Font Awesome into Figma
+- Finished most of the content for assignment, just trying to figure out how to make this wireflow
+- This is not working, might have to draw it by hand if I can't figure it out
