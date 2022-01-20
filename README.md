@@ -46,5 +46,14 @@ Goal: Work on Dsgn270 assignment 1
 - This is not working, might have to draw it by hand if I can't figure it out
 ## January 19th 
 Goal: Finish Dsgn270 assignment 1
+
+ Watched the video on [reading hex color codes](https://www.youtube.com/watch?v=eqZqx6lRPe0) that stuff makes a lot of sense now
+- Did a bunch of practice with read hex codes, getting the hang of it but still gotta remember most of the line graph shapes so I actually know what the hue/colour is
 - So I finally figured out how to get icons into Figma with Tony's help
-- This site has plugins and downloads for a lot of icons useful in making wireflows and websites: [UIPrep](https://www.uiprep.com/blog/ultimate-guide-to-using-icons-in-figma#:~:text=Add%20icons%20to%20your%20Figma,a%20plugin%20(most%20recommended).)
+    - This site has plugins and downloads for a lot of icons useful in making wireflows and websites: [UIPrep](https://www.uiprep.com/blog/ultimate-guide-to-using-icons-in-figma#:~:text=Add%20icons%20to%20your%20Figma,a%20plugin%20(most%20recommended).)
+- Making the wireflow screens was very hard for some reason, took me a few hours
+- Having to zoom in every single time to find an icon I just added was really annoying
+
+Good news, finished wireflow half of the assignment now I just need to figure out how to get that downloaded picture into my markdown.
+
+
