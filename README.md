@@ -44,3 +44,7 @@ Goal: Work on Dsgn270 assignment 1
 - Not sure how to get icons from Font Awesome into Figma
 - Finished most of the content for assignment, just trying to figure out how to make this wireflow
 - This is not working, might have to draw it by hand if I can't figure it out
+## January 19th 
+Goal: Finish Dsgn270 assignment 1
+- So I finally figured out how to get icons into Figma with Tony's help
+- This site has plugins and downloads for a lot of icons useful in making wireflows and websites: [UIPrep](https://www.uiprep.com/blog/ultimate-guide-to-using-icons-in-figma#:~:text=Add%20icons%20to%20your%20Figma,a%20plugin%20(most%20recommended).)
