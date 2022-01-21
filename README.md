@@ -35,7 +35,7 @@ Goal get sort of comfortable with UX I guess
 
 **Picture didn't show up how I wanted or expected, will ask Tony next time about how to fix the problem**
 
-![Wireframe example](images\source\how-to-wireframe.png "Wireframe example")
+![Wireframe example](how-to-wireframe.png) "Wireframe example"
 
 Image Source: https://www.g2.com/articles/wireframe
 ## January 18th
