@@ -56,4 +56,16 @@ Goal: Finish Dsgn270 assignment 1
 
 Good news, finished wireflow half of the assignment now I just need to figure out how to get that downloaded picture into my markdown.
 
+## January 20th
+Goal: Finish CPNT260 Wiki Article
+
+Ash explained the basics of HTML and CSS on CodePen so that was really helpful
+- Made my own replica of a [One Piece article from wikipedia](https://codepen.io/ykeddie/pen/jOGjGMM)
+- I think I'm starting to get the hang of HTML and CSS, definitely going to have to practice a lot more
+- Figuring out how to fix all the dimensions for pictures and borders etc. is surprisingly difficult
+- The [video on hex code colours](https://www.youtube.com/watch?v=eqZqx6lRPe0) was really useful cause I was able to actually make the background of a box a specific color/shade rather than just typing in "red" or "blue"
+- My codepen assignment honestly isn't the best but I'm sure with practice I'll be able to improve
+- Need to learn how to shift the whole paragraph to the middle (would've made it look nicer before handing in)
+
+Was able to finish Wiki Article, gonna start on my other assignment
 
