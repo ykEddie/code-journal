@@ -69,3 +69,17 @@ Ash explained the basics of HTML and CSS on CodePen so that was really helpful
 
 Was able to finish Wiki Article, gonna start on my other assignment
 
+## January 24th
+
+Goal: Just mess around with flexbox
+
+[Codepen I'm working on](https://codepen.io/ykeddie/pen/jOaNXmv)
+- I am honestly a bit confused about a few things with flexbox and some things I'm good with
+- Started working on a navigation bar (having a little trouble)
+- There's a lot of things I need to remember such as 
+  - `flex-end`
+  - `justifiy-content: center`
+  - and how to properly use clamps
+
+Made a README full of assets such as premade colour boards and keywords for the vision I have for projects. Think it's very useful.
+- Also little tip Ash gave about making the root and presetting the colours as variables in CSS was quite helpful
