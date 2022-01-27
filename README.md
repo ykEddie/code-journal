@@ -83,3 +83,10 @@ Goal: Just mess around with flexbox
 
 Made a README full of assets such as premade colour boards and keywords for the vision I have for projects. Think it's very useful.
 - Also little tip Ash gave about making the root and presetting the colours as variables in CSS was quite helpful
+
+## January 27th
+
+Goal: Mess around with grid, figure out how to use it to sort pictures/images in a sort of gallery
+
+- I think grid is way easier than flexbox, and it's honestly more simple to me
+- The command `grid-template-colums: repeat(4, 1fr)` for example is really useful rather than having to type it out multiple times
