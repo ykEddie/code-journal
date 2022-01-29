@@ -84,9 +84,17 @@ Goal: Just mess around with flexbox
 Made a README full of assets such as premade colour boards and keywords for the vision I have for projects. Think it's very useful.
 - Also little tip Ash gave about making the root and presetting the colours as variables in CSS was quite helpful
 
-## January 27th
+## January 27/28th
 
 Goal: Mess around with grid, figure out how to use it to sort pictures/images in a sort of gallery
 
 - I think grid is way easier than flexbox, and it's honestly more simple to me
 - The command `grid-template-colums: repeat(4, 1fr)` for example is really useful rather than having to type it out multiple times
+- OKAY so grid is slightly easier, still a bit confusing gotta figure out all the lines and stuff
+
+Worked on 404 Page 
+- Found some cool code that allows you to make text transparent and then fill it with an image/background
+  - `-webkit-text-fill-color: transparent;`
+  - `-webkit-background-clip: text;`
+
+While working on Services Page A2 I tried to use media queries to have some stuff change but the values got all messed up so I just scrapped that part as a whole. Gonna try and make a random codepen and figure out media queries in there.
