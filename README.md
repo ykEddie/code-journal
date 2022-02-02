@@ -98,3 +98,16 @@ Worked on 404 Page
   - `-webkit-background-clip: text;`
 
 While working on Services Page A2 I tried to use media queries to have some stuff change but the values got all messed up so I just scrapped that part as a whole. Gonna try and make a random codepen and figure out media queries in there.
+
+## February 1st
+
+Messed around with making a gallery, getting the pictures in it was fairly easy but then the sorting of all of them proved to be quite the hassle
+
+- Still haven't been able to figure out some parts of it, gonna go over the recording and maybe watch some YouTube videos
+
+Did some extra research on hero sections and I have an idea of what I want to do for one but it would need some stuff that has to do with animations and transitions and I'm not sure if I wanna mess around with that just yet lol
+
+- Codepen was bugging, I couldn't edit my CSS portion of my user input form even after restarting my laptop so it's looking very basic
+- Looked at Ash's codepens for some inspo
+- Want to incorporate the code I found last week into my hero section hopefully
+
