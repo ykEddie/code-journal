@@ -115,6 +115,7 @@ Did some extra research on hero sections and I have an idea of what I want to do
 
 Well, that was rough. Took me too much time to finish that gallery assignment and it still didn't turn out the way I wanted it to.
 I ended up using media queries to make the page responsive when it gets smaller because I couldn't figure out how to do it without one.
+- [Messed up Gallery](https://ykeddie.github.io/cpnt260-a3/)
 
 - Need to practice more on making pages responsive without a media query
 
