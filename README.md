@@ -111,3 +111,14 @@ Did some extra research on hero sections and I have an idea of what I want to do
 - Looked at Ash's codepens for some inspo
 - Want to incorporate the code I found last week into my hero section hopefully
 
+## February 3rd
+
+Well, that was rough. Took me too much time to finish that gallery assignment and it still didn't turn out the way I wanted it to.
+I ended up using media queries to make the page responsive when it gets smaller because I couldn't figure out how to do it without one.
+
+- Need to practice more on making pages responsive without a media query
+
+Watched the recording again to see if there was something I was missing but I can't tell what it was.
+
+When I was trying to initialize a repo through VS Code there was an error it kept giving me and it didn't allow my repo to work at first, I didn't really solve it I just did it from the start again and it worked so I'm not sure what was wrong with it
+- `warning: LF will be replaced by CRLF in README.md. The file will have its original line endings in your working directory`
